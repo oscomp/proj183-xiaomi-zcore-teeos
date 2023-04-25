@@ -12,6 +12,12 @@ Android 系统是目前应用最广泛的手机操作系统，拥有非常开放
 
 2022全国大学生操作系统比赛的“OS功能挑战”赛道
 
+### 项目导师
+
+• 潘双全：panshuangquan@xiaomi.com
+
+• 聂伟：[niewei@xiaomi.com](mailto:niewei@xiaomi.com)
+
 ### 难度
 
 第一阶段难度中等
@@ -38,8 +44,3 @@ Android 系统是目前应用最广泛的手机操作系统，拥有非常开放
 
 3. 用rust实现一个测试CA和TA，验证Global platform API
 
-### 项目导师
-
-• 潘双全：panshuangquan@xiaomi.com
-
-• 聂伟：[niewei@xiaomi.com](mailto:niewei@xiaomi.com)
